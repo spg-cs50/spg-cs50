@@ -1,9 +1,9 @@
-- 👋 Hi, I’m spg
-- 👀 I’m interested in chess,web dev. ...
-- 🌱 I’m currently learning BSc maths and statistics in KSCD,Karnataka, India 
-- 💞️ I’m looking to collaborate with mindfulness,...and???
+- 👋 Hi, My name is Sagar S Golasangi 
+- 👀 I’m interested infrontend web dev. ...
+- 🌱 I’m currently learning BSc maths. and statistics in KSCD,Karnataka, India.
+- 💞️ I’m looking to collaborate with mindfulness.
 - 📫 How to reach me -
-Twitter - SPG2157
+Twitter - thisisspg
 OR
 Vijayapur,karnataka,India
 
